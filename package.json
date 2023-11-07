@@ -1,0 +1,12 @@
+{
+  "name": "my-todo-app",
+  "version": "1.0.0",
+  "description": "Server Side Rendering based TODO App\r ====================================\r This app countains a simple todo app with server side rendering. It uses Handlebars as a template engine and Express as a server. It also uses AWS RDS as a database and AWS EC2 as a vm to run the app.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
